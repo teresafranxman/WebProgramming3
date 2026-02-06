@@ -1,3 +1,4 @@
 Hello! 
-My name is Teresa Franxman, I'm majoring in Software Development 
-at Dakota County Technical College
+My name is Teresa Franxman, and I'm majoring in Software Development at Dakota County Technical College.
+
+Stay tuned for more!
